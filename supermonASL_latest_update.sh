@@ -20,7 +20,7 @@ if [ "$OSR" != "debian" ] && [ "$OSR" != "raspbian" ]; then
     exit 1
 fi
 
-cd /; wget "http://2577.asnode.org:43856/SupermonASL-latest.tgz" -O SupermonASL-latest.tgz
+cd /; wget "http://198.58.124.150/sm74/SupermonASL-latest.tgz" -O SupermonASL-latest.tgz
 sync; tar -xzvpf SupermonASL-latest.tgz; sync; rm SupermonASL-latest.tgz
 
 # Cleanup old files:

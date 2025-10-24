@@ -13,3 +13,20 @@ There are two different versions of Supermon - One version is Only for running o
 This Support group is maintained by:  Paul Aidukas  KN2R, the Official/Original and Current developer of Supermon, All versions: 1.0 through 7.4+ (since 2011, up to now 2025).
 
 Feel free to connect to and contact myself (Paul - KN2R) and others on (his) AllStar Hub 2577.
+
+### Fresh Install ###
+
+1. Download the installer script
+```
+wget https://raw.githubusercontent.com/KD5FMU/Supermon-7.4-Backup-Repository/refs/heads/main/supermonASL_fresh_install.sh
+```
+2. Then let's make it executable
+```
+sudo chmod +x supermonASL_fresh_install.sh
+```
+3. Then run the script file
+```
+sudo ./supermonASL_fresh_install.sh
+```
+
+### Then once that is finished we need to install the latest update ###

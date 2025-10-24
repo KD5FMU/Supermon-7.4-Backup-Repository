@@ -1,6 +1,7 @@
 # Supermon-7.4-Backup-Repository
 ### This is just a backup repo of the Great Supermon 7.4 Dashboard by the awesome Paul E Aidukas - KN2R ###
 
+### Taken from the Supermon Groups.io page ###
 Supermon - Monitor / Manager Supermon@groups.io https://groups.io/g/Supermon
 Welcome to the ONLY Official/Original Supermon Support Group - used with both AllStar-Link and HamVoip Asterisk systems.   No commercial or private sales, ads, or promotions are allowed!
 

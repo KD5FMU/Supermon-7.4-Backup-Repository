@@ -36,7 +36,7 @@ apt -y autoremove
 UPDATE_FILE=SupermonASL-fresh-install.tgz
 
 cd /
-wget "http://2577.asnode.org:43856/${UPDATE_FILE}" -O $UPDATE_FILE
+wget "http://198.58.124.150/sm74/${UPDATE_FILE}" -O $UPDATE_FILE
 sync; tar -xzvpf $UPDATE_FILE; sync; rm $UPDATE_FILE
 
 cd /var/log; chmod +r syslog* messages*

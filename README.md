@@ -32,3 +32,17 @@ sudo ./supermonASL_fresh_install.sh
 ```
 
 ### Then once that is finished we need to install the latest update ###
+
+1. Download the update installer script
+```
+https://raw.githubusercontent.com/KD5FMU/Supermon-7.4-Backup-Repository/refs/heads/main/supermonASL_latest_update.sh
+```
+2. Now make it executable
+```
+sudo chmod +x supermonASL_latest_update.sh
+```
+3. Then we need to run the script file
+```
+sudo ./supermonASL_latest_update.sh
+```
+

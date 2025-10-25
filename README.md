@@ -20,7 +20,7 @@ Feel free to connect to and contact myself (Paul - KN2R) and others on (his) All
 
 1. Download the installer script
 ```
-wget https://raw.githubusercontent.com/KD5FMU/Supermon-7.4-Backup-Repository/refs/heads/main/supermonASL_fresh_install.sh
+sudo wget https://raw.githubusercontent.com/KD5FMU/Supermon-7.4-Backup-Repository/refs/heads/main/supermonASL_fresh_install.sh
 ```
 2. Then let's make it executable
 ```
@@ -35,7 +35,7 @@ sudo ./supermonASL_fresh_install.sh
 
 1. Download the update installer script
 ```
-wget https://raw.githubusercontent.com/KD5FMU/Supermon-7.4-Backup-Repository/refs/heads/main/supermonASL_latest_update.sh
+sudo wget https://raw.githubusercontent.com/KD5FMU/Supermon-7.4-Backup-Repository/refs/heads/main/supermonASL_latest_update.sh
 ```
 2. Now make it executable
 ```
